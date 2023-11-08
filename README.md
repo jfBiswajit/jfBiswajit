@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Biswajit Biswas</h1>
-<h3 align="center">I Am Transforming Ideas into Digital Reality.</h3>
+<h1 align="center">Biswajit Biswas</h1>
+<h3 align="center">Transforming Ideas into Digital Reality.</h3>
 
 - 📫 How to reach me **jfbiswajit@gmail.com**
 
